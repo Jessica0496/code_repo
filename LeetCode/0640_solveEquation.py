@@ -68,3 +68,6 @@ print('x=0', s.solveEquation("2x=x"))
 print('No solution',s.solveEquation("x=x+2"))
 print("x=1", s.solveEquation("-x=-1"))
 print("x=-1", s.solveEquation("-x=1"))
+
+
+
